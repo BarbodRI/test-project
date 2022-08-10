@@ -6,4 +6,4 @@ added new line for test
 
 .....
 
-32gurt
+32gur
